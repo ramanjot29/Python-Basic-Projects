@@ -1,0 +1,2 @@
+# Python-Basic-Projects
+ This repository contains a collection of simple Python projects suitable for beginners. Each project addresses a specific concept or problem, making it an ideal resource for learning and practicing Python programming. Whether you're new to coding or looking to reinforce your skills, you'll find these projects helpful and educational.  Feel free to explore the projects, contribute improvements, or use them as a starting point for your programming journey. Happy coding!
